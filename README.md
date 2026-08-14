@@ -1,1 +1,1 @@
-hello, i am karel, i like coding game engine and programming languages.
+hello, i am karel, i like programming languages and competitive programming.
